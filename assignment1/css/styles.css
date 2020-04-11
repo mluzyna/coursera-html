@@ -54,7 +54,7 @@ p.tileHeader {
 
 .row > div:nth-child(2) p.tileHeader {
   background: #C14543;
-  color: black;
+  color: #FFFFFF;
 }
 
 .row > div:nth-child(3) p.tileHeader {
